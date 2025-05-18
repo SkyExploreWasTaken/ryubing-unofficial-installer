@@ -1,0 +1,1 @@
+NSIS\makensis.exe /NOCONFIG setup.nsi
